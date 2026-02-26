@@ -1,3 +1,7 @@
 print("hello word")
 print("hello word")
 print("hello word")
+print("coucou")
+print("coucou")
+print("coucou")
+print("coucou")
